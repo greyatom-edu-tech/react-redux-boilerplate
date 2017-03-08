@@ -32,6 +32,8 @@ You will need the following things properly installed on your computer.
 
 `npm start`
 
+Visit [http://localhost:7770/](http://localhost:7770/)
+
 ## Test
 
 `npm test`
@@ -40,4 +42,3 @@ You will need the following things properly installed on your computer.
 
 `npm run build`
 
-Visit [http://localhost:7770/](http://localhost:7770/)
