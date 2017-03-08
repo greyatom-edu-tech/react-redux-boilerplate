@@ -1,6 +1,6 @@
 # Biolerplate Code for developing React-Redux Web-App #
 
-![rocket-icon.jpg](https://bitbucket.org/repo/xLxjo5/images/2097425492-rocket-icon.jpg)
+![rocket-icon.jpg](https://raw.githubusercontent.com/greyatom-edu-tech/react-redux-boilerplate/master/rocket.jpg)
 
 ### Repository Practices ###
 
